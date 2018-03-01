@@ -1,0 +1,37 @@
+[
+  {
+    "linkname": "新加坡",
+    "method": "aes-256-cfb",
+    "password": "FaLunDaFaHao@513",
+    "port": 8080,
+    "server": "128.199.116.26"
+  },
+  {
+    "linkname": "美国 - 1",
+    "method": "aes-256-cfb",
+    "password": "6061ae",
+    "port": 14292,
+    "server": "45.55.2.232"
+  },
+  {
+    "linkname": "美国 - 2",
+    "method": "aes-256-cfb",
+    "password": "2170f8",
+    "port": 14293,
+    "server": "45.55.2.232"
+  },
+  {
+    "linkname": "美国 - 3",
+    "method": "aes-256-cfb",
+    "password": "4d79fb",
+    "port": 14294,
+    "server": "45.55.2.232"
+  },
+  {
+    "linkname": "美国 - 4",
+    "method": "aes-256-cfb",
+    "password": "de7558",
+    "port": 14295,
+    "server": "45.55.2.232"
+  }
+]
